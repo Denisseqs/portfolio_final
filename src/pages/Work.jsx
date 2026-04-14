@@ -15,7 +15,7 @@ const projects = [
   thumbnail: '/work/butter.png',
   // Gallery shown inside the modal
   gallery: [
-    { type: 'video', src: '/public/work/butter.mp4', caption: 'Lyrics from song Butter - BTS' },
+    { type: 'video', src: '/work/butter.mp4', caption: 'Lyrics from song Butter - BTS' },
   ]
 },
 {
@@ -26,9 +26,9 @@ const projects = [
   tags: ['Illustrator', 'After Effects'],
   type: 'motion',
   icon: '🎬',
-  thumbnail: '/public/work/jamjar.png',
+  thumbnail: '/work/jamjar.png',
   gallery: [
-    { type: 'video', src: '/public/work/jamjar.mp4', caption: 'Promo video for app JamJar' },
+    { type: 'video', src: '/work/jamjar.mp4', caption: 'Promo video for app JamJar' },
   ]
 },
 {
@@ -39,10 +39,10 @@ const projects = [
   tags: ['ZimJS', 'Illustrator'],
   type: 'zimjs',
   icon: '🌿',
-  thumbnail: '/public/work/zen_garden.png',
+  thumbnail: '/work/zen_garden.png',
   gallery: [
-    { type: 'video', src: '/public/work/zen_garden.mp4', caption: 'Meditation feature' },
-    { type: 'image', src: '/public/work/zen_garden_draft.JPG', caption: 'Draft of the app :)' },
+    { type: 'video', src: '/work/zen_garden.mp4', caption: 'Meditation feature' },
+    { type: 'image', src: '/work/zen_garden_draft.JPG', caption: 'Draft of the app :)' },
   ]
 },
 {
@@ -53,9 +53,9 @@ const projects = [
   tags: ['ZimJS', 'Procreate'],
   type: 'zimjs',
   icon: '🐒',
-  thumbnail: '/public/work/jungle_jim.png',
+  thumbnail: '/work/jungle_jim.png',
   gallery: [
-    { type: 'video', src: '/public/work/jungle_jim.mp4', caption: 'Made for the Kids game assignemnt for Interactive Coding 1' },
+    { type: 'video', src: '/work/jungle_jim.mp4', caption: 'Made for the Kids game assignemnt for Interactive Coding 1' },
   ]
 },
 {
@@ -66,9 +66,9 @@ const projects = [
   tags: ['ZimJS', 'Reaper', 'Photoshop'],
   type: 'zimjs',
   icon: '🎮',
-  thumbnail: '/public/work/physics.jpg',
+  thumbnail: '/work/physics.jpg',
   gallery: [
-    { type: 'video', src: '/public/work/physics.mp4', caption: 'who let the dogs out!? woof woof woof' },
+    { type: 'video', src: '/work/physics.mp4', caption: 'who let the dogs out!? woof woof woof' },
   ]
 },
 {
@@ -79,9 +79,9 @@ const projects = [
   tags: ['HTML5', 'JavaScript', 'CSS', 'PHP', 'MySQL'],
   type: 'app',
   icon: '🐾',
-  thumbnail: '/public/work/petMed.png',
+  thumbnail: '/work/petMed.png',
   gallery: [
-    { type: 'video', src: '/public/work/petMed.mp4', caption: 'PetMed walk around as pet parent and veterinarian' },
+    { type: 'video', src: '/work/petMed.mp4', caption: 'PetMed walk around as pet parent and veterinarian' },
   ]
 },
 {
@@ -92,16 +92,16 @@ const projects = [
   tags: ['HTML5', 'JavaScript', 'CSS'],
   type: 'app',
   icon: '✈️',
-  thumbnail: '/public/work/travel_cat.png',
+  thumbnail: '/work/travel_cat.png',
   gallery: [
-    { type: 'image', src: '/public/work/travel_cat2.png', caption: 'Travel Cat landing page' },
-    { type: 'video', src: '/public/work/travel_cat.mp4', caption: 'Travel Cat map' },
-    { type: 'image', src: '/public/work/travel_cat3.png', caption: 'Shops in the map' },
-    { type: 'image', src: '/public/work/travel_cat4.png', caption: 'Weather of the selected location' },
-    { type: 'image', src: '/public/work/travel_cat5.png', caption: 'About page' },
-    { type: 'image', src: '/public/work/travel_cat6.png', caption: 'Paris' },
-    { type: 'image', src: '/public/work/travel_cat7.png', caption: 'Seoul' },
-    { type: 'image', src: '/public/work/travel_cat8.png', caption: 'Toronto' },
+    { type: 'image', src: '/work/travel_cat2.png', caption: 'Travel Cat landing page' },
+    { type: 'video', src: '/work/travel_cat.mp4', caption: 'Travel Cat map' },
+    { type: 'image', src: '/work/travel_cat3.png', caption: 'Shops in the map' },
+    { type: 'image', src: '/work/travel_cat4.png', caption: 'Weather of the selected location' },
+    { type: 'image', src: '/work/travel_cat5.png', caption: 'About page' },
+    { type: 'image', src: '/work/travel_cat6.png', caption: 'Paris' },
+    { type: 'image', src: '/work/travel_cat7.png', caption: 'Seoul' },
+    { type: 'image', src: '/work/travel_cat8.png', caption: 'Toronto' },
   ]
 },
 {
@@ -112,9 +112,9 @@ const projects = [
   tags: ['HTML5', 'JavaScript', 'CSS'],
   type: 'app',
   icon: '⚡',
-  thumbnail: '/public/work/energy_drink.png',
+  thumbnail: '/work/energy_drink.png',
   gallery: [
-    { type: 'video', src: '/public/work/energy_drink.mp4', caption: 'Energy drink website' },
+    { type: 'video', src: '/work/energy_drink.mp4', caption: 'Energy drink website' },
   ]
 }];
 

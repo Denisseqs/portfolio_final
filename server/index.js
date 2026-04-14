@@ -4,7 +4,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import contactRoutes from './routes/contact.js';
 
-dotenv.config({ path: '../.env' }); // reads .env from project root
+dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;

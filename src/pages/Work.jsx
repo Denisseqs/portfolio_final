@@ -12,7 +12,7 @@ const projects = [
   type: 'motion',
   icon: '🎬',
   // Single thumbnail shown on the card
-  thumbnail: '/public/work/butter.png',
+  thumbnail: '/work/butter.png',
   // Gallery shown inside the modal
   gallery: [
     { type: 'video', src: '/public/work/butter.mp4', caption: 'Lyrics from song Butter - BTS' },
